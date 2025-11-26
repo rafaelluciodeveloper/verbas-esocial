@@ -1,0 +1,3002 @@
+[
+  {
+    "nome": "Salário",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1000",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Salário in natura - pagos em bens ou serviços",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1010",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Comissões, percentagens ou produção",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1207",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Sobreaviso",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1011",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Adiantamento de salário",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "5501",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "11",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Remuneração de faltas justificadas",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1050",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Remuneração do dirigente sindical",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1230",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Remuneração de autônomo",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1000",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Remuneração mensal",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1000",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Horas extras",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1003",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Horas extras noturnas",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1003",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Horas extras em dobro",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1003",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Horas extras noturnas em dobro",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1003",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Horas extras sobre comissões",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1003",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Horas extras - Banco de Horas",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1004",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Adicional noturno",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1205",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Adicional noturno em dobro",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1205",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Intervalo para repouso e alimentação, quando não concedido integralmente",
+    "dtInicio": "01012014",
+    "dtFim": "31102017",
+    "natRubr": "1006",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Intervalo para repouso e alimentação, quando não concedido integralmente",
+    "dtInicio": "01112017",
+    "dtFim": "",
+    "natRubr": "1006",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Intervalo entre duas jornadas de trabalho, quando não concedido integralmente",
+    "dtInicio": "01012014",
+    "dtFim": "31102017",
+    "natRubr": "1006",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Intervalo entre duas jornadas de trabalho, quando não concedido integralmente",
+    "dtInicio": "01112017",
+    "dtFim": "",
+    "natRubr": "1006",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "DSR - Descanso Semanal Remunerado",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1002",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "DSR - Descanso Semanal Remunerado - sobre Horas Extras",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1002",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "DSR - Descanso Semanal Remunerado - sobre Adicional Noturno",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1002",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "DSR - Descanso Semanal Remunerado - sobre Adicional de Viagem do empregado doméstico",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1002",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "DSR - Descanso Semanal Remunerado - sobre comissões, percentagens",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1002",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "DSR - Descanso Semanal Remunerado - em dobro",
+    "dtInicio": "01012014",
+    "dtFim": "30112016",
+    "natRubr": "1002",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Descanso semanal e/ou feriado trabalhados",
+    "dtInicio": "01122016",
+    "dtFim": "",
+    "natRubr": "1002",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Adicional de insalubridade",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1202",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Adicional de periculosidade",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1203",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Adicional por tempo de serviço",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1206",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Adicional de transferência",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1204",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Adicional de viagem do empregado doméstico",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1204",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Outros adicionais",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1299",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Quebra de caixa",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1225",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Gratificações",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1211",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Gratificação de função",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1201",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Prêmios",
+    "dtInicio": "01012014",
+    "dtFim": "30042018",
+    "natRubr": "2501",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Prêmios",
+    "dtInicio": "01052018",
+    "dtFim": "",
+    "natRubr": "2501",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "11",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Gratificação por acordo ou convenção coletiva",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1210",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Gorjetas",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1209",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Direitos intelectuais",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "2510",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "11",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Gueltas",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1208",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Vale-Transporte - Adiantamento pago em dinheiro",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "1810",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Vale-Transporte - Adiantamento pago em dinheiro",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "1810",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Alimentação - Pecúnia",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1800",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Alimentação - Ticket ou cartão - Integrantes do PAT",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1806",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Alimentação - Ticket ou cartão - Não integrante do PAT",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1807",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Alimentação - Cesta básica ou refeição - Integrantes do PAT",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1808",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Alimentação - Cesta básica ou refeição - Não integrante do PAT",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1809",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Vestuário e equipamentos",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "2903",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Abonos",
+    "dtInicio": "01012014",
+    "dtFim": "30042018",
+    "natRubr": "1401",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Abonos",
+    "dtInicio": "01052018",
+    "dtFim": "",
+    "natRubr": "1401",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "11",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Abono PIS/PASEP",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "1402",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Abono PIS/PASEP",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "1402",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Abono legal",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1403",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "11",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Auxílio babá",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1404",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "79",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Assistência médica",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1405",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Auxílio-creche",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1406",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "79",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Salário maternidade",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "4050",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "21",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Salário maternidade (pago pelo INSS)",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "4050",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "25",
+    "codIncIRRF": "0",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Salário maternidade (pago pelo INSS)",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9930",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "25",
+    "codIncIRRF": "9",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Salário maternidade - 13º Salário",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "4051",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "22",
+    "codIncIRRF": "12",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Salário maternidade - 13º Salário (pago pelo INSS)",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "4051",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "26",
+    "codIncIRRF": "0",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Salário maternidade - 13º Salário (pago pelo INSS)",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9931",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "26",
+    "codIncIRRF": "9",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Salário-família",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "1409",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "51",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Salário-família",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "1409",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "51",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Diferença de Salário-família retroativo",
+    "dtInicio": "01022017",
+    "dtFim": "30062021",
+    "natRubr": "1409",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "51",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Diferença de Salário-família retroativo",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "1409",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "51",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Salário-família - Complemento",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1009",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Salário base afastamento acidentário",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9932",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Salário base afastamento acidentário",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9932",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Salário base afastamento acidentário - 13º Salário",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9932",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Salário base afastamento acidentário - 13º Salário",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9932",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Salário base do serviço militar obrigatório",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9905",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Salário base do serviço militar obrigatório",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9905",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Salário base do serviço militar obrigatório - 13º Salário",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9905",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Salário base do serviço militar obrigatório - 13º Salário",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9905",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "13º salário - Adiantamento",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "5504",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "13º salário - Adiantamento",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "5504",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "13º salário",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "5001",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "12",
+    "codIncIRRF": "12",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "13º salário complementar",
+    "dtInicio": "01012014",
+    "dtFim": "31122016",
+    "natRubr": "5005",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "12",
+    "codIncIRRF": "12",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Diferença de reflexo da remuneração variável no 13º salário",
+    "dtInicio": "01012017",
+    "dtFim": "",
+    "natRubr": "5005",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "12",
+    "codIncIRRF": "12",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "13º salário - Parcela final paga em dezembro",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "5504",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "13º salário - Parcela final paga em dezembro",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "5504",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Insuficiência de saldo",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "2930",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Insuficiência de saldo",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "2930",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Adiantamento de férias",
+    "dtInicio": "01012014",
+    "dtFim": "31122024",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "13",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Adiantamento de férias",
+    "dtInicio": "01012025",
+    "dtFim": "",
+    "natRubr": "1016",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "13",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Adiantamento do adicional de 1/3 sobre férias",
+    "dtInicio": "01012014",
+    "dtFim": "31122024",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "13",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Adiantamento do adicional de 1/3 sobre férias",
+    "dtInicio": "01012025",
+    "dtFim": "",
+    "natRubr": "1017",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "13",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Férias - Gozadas no mês",
+    "dtInicio": "01012014",
+    "dtFim": "31082016",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Férias - Gozadas no mês",
+    "dtInicio": "01092016",
+    "dtFim": "31122024",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Férias - Gozadas no mês",
+    "dtInicio": "01012025",
+    "dtFim": "",
+    "natRubr": "1016",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Férias - Adicional 1/3 sobre férias gozadas no mês",
+    "dtInicio": "01012014",
+    "dtFim": "31082016",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Férias - Adicional 1/3 sobre férias gozadas no mês",
+    "dtInicio": "01092016",
+    "dtFim": "31122024",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Férias - Adicional 1/3 sobre férias gozadas no mês",
+    "dtInicio": "01012025",
+    "dtFim": "",
+    "natRubr": "1017",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Férias - Pagamento prorrogado - Adicional 1/3 sobre férias - MP 927/2020",
+    "dtInicio": "01042020",
+    "dtFim": "30042020",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Férias - Pagamento prorrogado - Adicional 1/3 sobre férias - MP 1.046/2021",
+    "dtInicio": "01042021",
+    "dtFim": "30112021",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Férias - Pagamento prorrogado - Adicional 1/3 sobre férias - MP 927/2020",
+    "dtInicio": "01052020",
+    "dtFim": "31122020",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Férias - Abono pecuniário de férias",
+    "dtInicio": "01012014",
+    "dtFim": "31082016",
+    "natRubr": "1023",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Férias - Abono pecuniário de férias",
+    "dtInicio": "01092016",
+    "dtFim": "",
+    "natRubr": "1023",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Férias - Adicional 1/3 sobre abono pecuniário",
+    "dtInicio": "01012014",
+    "dtFim": "31082016",
+    "natRubr": "1023",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "13",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Férias - Adicional 1/3 sobre abono pecuniário",
+    "dtInicio": "01092016",
+    "dtFim": "",
+    "natRubr": "1023",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "13",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Férias - Pagamento prorrogado - Abono pecuniário de férias + 1/3 - MP 927/2020",
+    "dtInicio": "01042020",
+    "dtFim": "30042020",
+    "natRubr": "1023",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Férias - Pagamento prorrogado - Abono pecuniário de férias + 1/3 - MP 1.046/2021",
+    "dtInicio": "01042021",
+    "dtFim": "30112021",
+    "natRubr": "1023",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Férias - Pagamento prorrogado - Abono pecuniário de férias + 1/3 - MP 927/2020",
+    "dtInicio": "01052020",
+    "dtFim": "31122020",
+    "natRubr": "1023",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Férias - O dobro na vigência do contrato",
+    "dtInicio": "01012014",
+    "dtFim": "31082016",
+    "natRubr": "1024",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "13",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Férias - O dobro na vigência do contrato",
+    "dtInicio": "01092016",
+    "dtFim": "",
+    "natRubr": "1024",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "13",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Abono pecuniário de férias - O dobro na vigência do contrato",
+    "dtInicio": "01012014",
+    "dtFim": "31082016",
+    "natRubr": "1024",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Abono pecuniário de férias - O dobro na vigência do contrato",
+    "dtInicio": "01092016",
+    "dtFim": "",
+    "natRubr": "1024",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Diárias de viagem - até 50% do salário",
+    "dtInicio": "01012014",
+    "dtFim": "31102017",
+    "natRubr": "1651",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "72",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Diárias de viagem - acima de 50% do salário",
+    "dtInicio": "01012014",
+    "dtFim": "31102017",
+    "natRubr": "1652",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Diárias de viagem",
+    "dtInicio": "01052018",
+    "dtFim": "",
+    "natRubr": "1650",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "72",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Ajuda de custo de transferência (Parcela única)",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1602",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "73",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Ajuda de custo",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1603",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "73",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Ressarcimento de despesas pelo uso de veículo próprio",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1620",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Ressarcimento de despesas de viagem, exceto despesas com veículos",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1621",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Ressarcimento de provisão",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1623",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Ressarcimento de outras despesas",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1629",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Reembolsos diversos (com natureza salarial)",
+    "dtInicio": "01012014",
+    "dtFim": "31072021",
+    "natRubr": "2920",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Ajuda Compensatória - Lei 14.020/2020",
+    "dtInicio": "01042020",
+    "dtFim": "31122020",
+    "natRubr": "1619",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Ajuda Compensatória - MP 1.045/2021",
+    "dtInicio": "01042021",
+    "dtFim": "30062021",
+    "natRubr": "1619",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Ajuda Compensatória - MP 1.045/2021",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "1619",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Reembolsos diversos (sem natureza salarial)",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "2920",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Reembolsos diversos (sem natureza salarial)",
+    "dtInicio": "01072021",
+    "dtFim": "31072021",
+    "natRubr": "2920",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "PLR - Participação nos lucros e resultados",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1300",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "14",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Arredondamentos",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "2999",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Estagiários - Bolsa",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "1350",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "11",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Numerário - Remuneração do contribuinte individual",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "3501",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Honorários",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "3501",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Retiradas (pró-labore) de proprietários ou sócios",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "3508",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Retiradas (pró-labore) de diretores (não empregados) optantes pelo FGTS",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "3506",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Base de Cálculo do FGTS - Reclamatória Trabalhista",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9939",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Saldo de salários",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "6000",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "13º salário sobre o aviso prévio indenizado",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "6001",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "12",
+    "codIncIRRF": "74",
+    "codIncFGTS": "21"
+  },
+  {
+    "nome": "13º salário proporcional",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "6002",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "12",
+    "codIncIRRF": "12",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Aviso prévio indenizado",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "6003",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "74",
+    "codIncFGTS": "21"
+  },
+  {
+    "nome": "Férias vencidas - em dobro - na rescisão",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "6004",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "74",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Férias proporcionais",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "6006",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "74",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Férias vencidas",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "6007",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "74",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Férias sobre o aviso prévio indenizado",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "6006",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "74",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Adicional de 1/3 sobre férias",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "6007",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "74",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Indenização do art. 9º da Lei 7.238/1984",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "6102",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "74",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Indenização do art. 14 da lei nº 5.889, de 8 de junho de 1973",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "6103",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "74",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Indenização pela extinção antecipada do contrato a termo",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "6104",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "74",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Multa por atraso no pagamento da rescisão (art. 477, § 8º, da CLT)",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "6106",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "74",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Indenização por quebra de estabilidade",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "6107",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "74",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Indenização rescisória - Programa Emergencial de Manutenção do Emprego e da Renda",
+    "dtInicio": "01042020",
+    "dtFim": "30062021",
+    "natRubr": "6119",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Indenização rescisória - Programa Emergencial de Manutenção do Emprego e da Renda",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "6119",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Diferença de remuneração mensal",
+    "dtInicio": "01012014",
+    "dtFim": "30062016",
+    "natRubr": "1000",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Retroativo - Diferença de remuneração mensal",
+    "dtInicio": "01072016",
+    "dtFim": "",
+    "natRubr": "1000",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Diferença de 13º salário",
+    "dtInicio": "01012014",
+    "dtFim": "30062016",
+    "natRubr": "5001",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "12",
+    "codIncIRRF": "12",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Retroativo - Diferença de 13º salário",
+    "dtInicio": "01072016",
+    "dtFim": "",
+    "natRubr": "5001",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "12",
+    "codIncIRRF": "12",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Diferença de férias gozadas",
+    "dtInicio": "01012014",
+    "dtFim": "30062016",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Retroativo - Diferença de férias gozadas",
+    "dtInicio": "01072016",
+    "dtFim": "31122024",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Retroativo - Diferença de férias gozadas",
+    "dtInicio": "01012025",
+    "dtFim": "",
+    "natRubr": "1016",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Diferença de verbas indenizatórias",
+    "dtInicio": "01012014",
+    "dtFim": "30062016",
+    "natRubr": "6129",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Retroativo - Diferença de verbas indenizatórias",
+    "dtInicio": "01072016",
+    "dtFim": "30062021",
+    "natRubr": "6129",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Retroativo - Diferença de verbas indenizatórias",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "6129",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Diferença de salário maternidade (pago pelo INSS)",
+    "dtInicio": "01012014",
+    "dtFim": "30062016",
+    "natRubr": "4050",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "25",
+    "codIncIRRF": "0",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Retroativo - Diferença de salário maternidade (pago pelo INSS)",
+    "dtInicio": "01072016",
+    "dtFim": "30062021",
+    "natRubr": "4050",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "25",
+    "codIncIRRF": "0",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Retroativo - Diferença de salário maternidade (pago pelo INSS)",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9930",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "25",
+    "codIncIRRF": "9",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Diferença de salário maternidade - 13º salário (pago pelo INSS)",
+    "dtInicio": "01012014",
+    "dtFim": "30062016",
+    "natRubr": "4051",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "26",
+    "codIncIRRF": "0",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Retroativo - Diferença de salário maternidade - 13º salário (pago pelo INSS)",
+    "dtInicio": "01072016",
+    "dtFim": "30062021",
+    "natRubr": "4051",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "26",
+    "codIncIRRF": "0",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Retroativo - Diferença de salário maternidade - 13º salário (pago pelo INSS)",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9931",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "26",
+    "codIncIRRF": "9",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Diferença de auxílio-doença acidentário (pago pelo INSS)",
+    "dtInicio": "01012014",
+    "dtFim": "30062016",
+    "natRubr": "9932",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Retroativo - Diferença de auxílio-doença acidentário (pago pelo INSS)",
+    "dtInicio": "01072016",
+    "dtFim": "30062021",
+    "natRubr": "9932",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Retroativo - Diferença de auxílio-doença acidentário (pago pelo INSS)",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9932",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Diferença de salário base do serviço militar obrigatório",
+    "dtInicio": "01012014",
+    "dtFim": "30062016",
+    "natRubr": "9905",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Retroativo - Diferença de salário base do serviço militar obrigatório",
+    "dtInicio": "01072016",
+    "dtFim": "30062021",
+    "natRubr": "9905",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Retroativo - Diferença de salário base do serviço militar obrigatório",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9905",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Diferença de férias gozadas",
+    "dtInicio": "01072016",
+    "dtFim": "31122024",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Diferença de férias gozadas",
+    "dtInicio": "01012025",
+    "dtFim": "",
+    "natRubr": "1016",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Diferença do adicional de 1/3 sobre férias gozadas",
+    "dtInicio": "01072016",
+    "dtFim": "31122024",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Diferença do adicional de 1/3 sobre férias gozadas",
+    "dtInicio": "01012025",
+    "dtFim": "",
+    "natRubr": "1017",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Diferença de abono pecuniário de férias",
+    "dtInicio": "01072016",
+    "dtFim": "",
+    "natRubr": "1023",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Diferença do adicional de 1/3 sobre abono pecuniário",
+    "dtInicio": "01072016",
+    "dtFim": "",
+    "natRubr": "1023",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Diferença da dobra de férias na vigência do contrato",
+    "dtInicio": "01072016",
+    "dtFim": "",
+    "natRubr": "1024",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "13",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Diferença da dobra de abono pecuniário de férias",
+    "dtInicio": "01072016",
+    "dtFim": "",
+    "natRubr": "1024",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Saldo para pgto prorrogado do adicional de 1/3 sobre férias gozadas - MP 927/2020",
+    "dtInicio": "01042020",
+    "dtFim": "30112020",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Saldo para pgto prorrogado do adicional de 1/3 sobre férias gozadas - MP 1.046/2021",
+    "dtInicio": "01042021",
+    "dtFim": "30112021",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Saldo para pgto prorrogado do adicional de 1/3 sobre férias gozadas - MP 927/2020",
+    "dtInicio": "01122020",
+    "dtFim": "31122020",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Saldo para pgto prorrogado do adicional de 1/3 sobre férias gozadas - MP 1.046/2021",
+    "dtInicio": "01122021",
+    "dtFim": "31122021",
+    "natRubr": "1020",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Saldo para pgto prorrogado do abono pecuniário e 1/3 sobre abono - MP 927/2020",
+    "dtInicio": "01042020",
+    "dtFim": "30112020",
+    "natRubr": "1023",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Saldo para pgto prorrogado do abono pecuniário e 1/3 sobre abono - MP 1.046/2021",
+    "dtInicio": "01042021",
+    "dtFim": "30112021",
+    "natRubr": "1023",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Saldo para pgto prorrogado do abono pecuniário e 1/3 sobre abono - MP 927/2020",
+    "dtInicio": "01122020",
+    "dtFim": "31122020",
+    "natRubr": "1023",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Saldo para pgto prorrogado do abono pecuniário e 1/3 sobre abono - MP 1.046/2021",
+    "dtInicio": "01122021",
+    "dtFim": "31122021",
+    "natRubr": "1023",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto do aviso prévio não cumprido",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "6901",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto do aviso prévio não cumprido",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "6901",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Multa da extinção antecipada do contrato a termo",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "6904",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Multa da extinção antecipada do contrato a termo",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "6904",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto do adiantamento de salário",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9200",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "11",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto de adiantamento de férias e adicional de 1/3 no mês",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9221",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "13",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto de adiantamento de férias e adicional de 1/3 no mês",
+    "dtInicio": "01072016",
+    "dtFim": "31082016",
+    "natRubr": "9221",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "13",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto de adiantamento de férias e adicional de 1/3 no mês",
+    "dtInicio": "01092016",
+    "dtFim": "",
+    "natRubr": "9221",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "13",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto de pagamento de férias gozadas e abono pecuniário",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9221",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto de pagamento de férias gozadas e abono pecuniário",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9221",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto de pagamento de férias gozadas/vendidas",
+    "dtInicio": "01042020",
+    "dtFim": "30062021",
+    "natRubr": "9221",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto de pagamento de férias gozadas/vendidas",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9221",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Estorno para prorrogação pgto. adicional de 1/3 de férias - MP 927/2020",
+    "dtInicio": "01032020",
+    "dtFim": "31122020",
+    "natRubr": "1020",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Estorno para prorrogação pgto. adicional de 1/3 de férias - MP 1.046/2021",
+    "dtInicio": "01042021",
+    "dtFim": "31122021",
+    "natRubr": "1020",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Estorno para prorrogação pgto. abono pecuniário de férias + 1/3 - MP 927/2020",
+    "dtInicio": "01032020",
+    "dtFim": "31122020",
+    "natRubr": "1023",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Estorno para prorrogação pgto. abono pecuniário de férias + 1/3 - MP 1.046/2021",
+    "dtInicio": "01042021",
+    "dtFim": "31122021",
+    "natRubr": "1023",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "75",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "13º salário - Desconto do adiantamento",
+    "dtInicio": "01012014",
+    "dtFim": "30062016",
+    "natRubr": "9214",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "13º salário - Desconto do adiantamento",
+    "dtInicio": "01072016",
+    "dtFim": "30062021",
+    "natRubr": "9214",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "13º salário - Desconto do adiantamento",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9214",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "13º salário - Desconto do pagamento",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9214",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "12",
+    "codIncIRRF": "12",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "13º salário - Desconto remuneração zerada",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9214",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "12",
+    "codIncIRRF": "12",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "13º salário complementar - Desconto",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "5005",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "12",
+    "codIncIRRF": "12",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Atrasos",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9208",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Faltas",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9207",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "DSR sobre faltas e atrasos",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9210",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Estagiários - Faltas e atrasos",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9209",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "11",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Vale-Transporte - Desconto",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9216",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Vale-Transporte - Desconto",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9216",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Vale-Transporte - Devolução de valor pago a maior",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9216",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Vale-Transporte - Devolução de valor pago a maior",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9216",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto do adiantamento de salário",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9200",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto do adiantamento de salário",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9200",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto de adiantamento de férias e adicional de 1/3 no mês",
+    "dtInicio": "01012014",
+    "dtFim": "30062016",
+    "natRubr": "9221",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "13",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Alimentação - Desconto",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9220",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto - Alimentação - Pecúnia",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9240",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Desconto - Alimentação - Ticket ou cartão - Integrantes do PAT",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9241",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto - Alimentação - Ticket ou cartão - Não integrante do PAT",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9242",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto - Alimentação - Cesta básica ou refeição - Integrantes do PAT",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9243",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Desconto - Alimentação - Cesta básica ou refeição - Não integrante do PAT",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9244",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Pensão Alimentícia - Mensal",
+    "dtInicio": "01012014",
+    "dtFim": "13082018",
+    "natRubr": "9213",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "51",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Pensão Alimentícia - Mensal",
+    "dtInicio": "14082018",
+    "dtFim": "",
+    "natRubr": "9213",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "51",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Pensão Alimentícia - 13° salário",
+    "dtInicio": "01012014",
+    "dtFim": "13082018",
+    "natRubr": "9213",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "52",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Pensão Alimentícia - 13° salário",
+    "dtInicio": "14082018",
+    "dtFim": "",
+    "natRubr": "9213",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "52",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Pensão Alimentícia - Férias",
+    "dtInicio": "01012014",
+    "dtFim": "13082018",
+    "natRubr": "9213",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "53",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Pensão Alimentícia - Férias",
+    "dtInicio": "14082018",
+    "dtFim": "",
+    "natRubr": "9213",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "53",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Pensão Alimentícia - PLR",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9213",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "54",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Arredondamentos (desconto)",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "2999",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Contribuição sindical laboral",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9230",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Contribuição sindical laboral",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9230",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Contribuição sindical - Associativa",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9231",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Contribuição sindical - Associativa",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9231",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Contribuição sindical - Assistencial",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9232",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Contribuição sindical - Assistencial",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9232",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Contribuição sindical - Confederativa",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9233",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Contribuição sindical - Confederativa",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9233",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Danos causados pelo empregado - Desconto",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9270",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Danos causados pelo empregado - Desconto",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9270",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Previdência privada - Desconto",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9223",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Previdência privada - Desconto",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9223",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Seguro de Vida - Desconto",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9250",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Seguro de Vida - Desconto",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9250",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Empréstimos consignados - desconto",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9254",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Convênios",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9258",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Fies - Desconto",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9260",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Assistência Médica - Desconto",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9219",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Assistência Médica - Desconto",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9219",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Assistência Médica e/ou Odontológica - Desconto (empregado doméstico)",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9299",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Assistência Médica e/ou Odontológica - Desconto (empregado doméstico)",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9299",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Habitação (empregado doméstico)",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9299",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Habitação (empregado doméstico)",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9299",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Contribuição previdenciária do empregado (INSS)",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9201",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "31",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Contribuição previdenciária do empregado (INSS)",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9201",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "31",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Contribuição previdenciária do empregado sobre 13º Salário (INSS)",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9201",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "32",
+    "codIncIRRF": "42",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Provisão de INSS - Férias",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9201",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "43",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Provisão de INSS - Férias",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9205",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "43",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Compensação de provisão de INSS no mês - Férias",
+    "dtInicio": "01012014",
+    "dtFim": "31082016",
+    "natRubr": "1099",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Compensação de provisão de INSS no mês - Férias",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "1099",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Compensação de provisão de INSS no mês - Férias",
+    "dtInicio": "01092016",
+    "dtFim": "30062021",
+    "natRubr": "1099",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "INSS - SENAT (Descontado Transportador PF)",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9201",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "34",
+    "codIncIRRF": "41",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "INSS - SEST (Descontado Transportador PF)",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9201",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "35",
+    "codIncIRRF": "41",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Imposto de renda retido na fonte - Mensal",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9203",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "31",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Imposto de renda retido na fonte - Férias",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9203",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "33",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Imposto de renda retido na fonte - 13° salário",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9203",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "32",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Imposto de renda retido na fonte - PLR",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9203",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "34",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Decisão judicial - Valor líquido de TRCT quitado",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9299",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Decisão judicial - Valor líquido de TRCT quitado",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9299",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Apoio Financeiro MP 1230/2024",
+    "dtInicio": "01062024",
+    "dtFim": "31082024",
+    "natRubr": "9299",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Diferença de descontos indenizatórios",
+    "dtInicio": "01012014",
+    "dtFim": "30062016",
+    "natRubr": "9299",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Retroativo - Diferença de descontos indenizatórios",
+    "dtInicio": "01072016",
+    "dtFim": "30062021",
+    "natRubr": "9299",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Retroativo - Diferença de descontos indenizatórios",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9299",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Devolução de remuneração mensal",
+    "dtInicio": "01072016",
+    "dtFim": "",
+    "natRubr": "9290",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "11",
+    "codIncIRRF": "11",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Devolução de 13º salário - Ano corrente",
+    "dtInicio": "01072016",
+    "dtFim": "",
+    "natRubr": "9290",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "12",
+    "codIncIRRF": "12",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Devolução de férias gozadas",
+    "dtInicio": "01072016",
+    "dtFim": "",
+    "natRubr": "9290",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "11",
+    "codIncIRRF": "13",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Devolução de verbas indenizatórias",
+    "dtInicio": "01072016",
+    "dtFim": "30062021",
+    "natRubr": "9299",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Devolução de verbas indenizatórias",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9299",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Devolução de 13º salário - Anos anteriores",
+    "dtInicio": "01072016",
+    "dtFim": "",
+    "natRubr": "9290",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "12",
+    "codIncIRRF": "12",
+    "codIncFGTS": "12"
+  },
+  {
+    "nome": "Dependente - Remuneração Mensal",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9989",
+    "tpRubr": "4 - Informativa dedutora",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Dependente - Remuneração Mensal",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9989",
+    "tpRubr": "4 - Informativa dedutora",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Dependente - 13° salário",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9989",
+    "tpRubr": "4 - Informativa dedutora",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Dependente - 13° salário",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9989",
+    "tpRubr": "4 - Informativa dedutora",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Dependente - Férias",
+    "dtInicio": "01012014",
+    "dtFim": "30062021",
+    "natRubr": "9989",
+    "tpRubr": "4 - Informativa dedutora",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Dependente - Férias",
+    "dtInicio": "01072021",
+    "dtFim": "",
+    "natRubr": "9989",
+    "tpRubr": "4 - Informativa dedutora",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "PSO - Mensal",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9989",
+    "tpRubr": "4 - Informativa dedutora",
+    "codIncCP": "0",
+    "codIncIRRF": "41",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "PSO - Férias",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9989",
+    "tpRubr": "4 - Informativa dedutora",
+    "codIncCP": "0",
+    "codIncIRRF": "43",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Base de Cálculo do FGTS - Parcelamento (MP 927/2020)",
+    "dtInicio": "01012014",
+    "dtFim": "31122020",
+    "natRubr": "9939",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Base de Cálculo do FGTS - Parcelamento (MP 1.046/2021)",
+    "dtInicio": "01042021",
+    "dtFim": "30062021",
+    "natRubr": "9939",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "0",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Base de Cálculo do FGTS - Parcelamento (MP 1.046/2021)",
+    "dtInicio": "01072021",
+    "dtFim": "31122021",
+    "natRubr": "9939",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Base de Cálculo do FGTS - Parcelamento (MTE 3.553/2023 e MTE 3.782/2023)",
+    "dtInicio": "01102023",
+    "dtFim": "29022024",
+    "natRubr": "9939",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Base de Cálculo do FGTS - Parcelamento (MTE 729/2024)",
+    "dtInicio": "01042024",
+    "dtFim": "31072024",
+    "natRubr": "9939",
+    "tpRubr": "3 - Informativa",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "11"
+  },
+  {
+    "nome": "Empréstimo eConsignado",
+    "dtInicio": "01012014",
+    "dtFim": "",
+    "natRubr": "9253",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "31"
+  },
+  {
+    "nome": "Provisão de parcela de empréstimo eConsignado - Férias",
+    "dtInicio": "01042024",
+    "dtFim": "",
+    "natRubr": "9299",
+    "tpRubr": "2 - Desconto",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  },
+  {
+    "nome": "Compensação de provisão de parcela de empréstimo eConsignado no mês - Férias",
+    "dtInicio": "01042024",
+    "dtFim": "",
+    "natRubr": "1099",
+    "tpRubr": "1 - Vencimento, provento ou pensão",
+    "codIncCP": "0",
+    "codIncIRRF": "9",
+    "codIncFGTS": "0"
+  }
+]
